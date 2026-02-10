@@ -1,8 +1,13 @@
-# Daily DSA Practice (Java)
+GFG160
 
-This repository contains my daily practice of Data Structures and Algorithms using Java.
+💻 GeeksforGeeks 160 Days of Code
+Welcome to my 160 Days of Code journey with GeeksforGeeks.
+This repository documents my daily practice, learning, and growth as I solve DSA problems, master patterns.
 
-## Goals
-- Solve at least 1 DSA problem daily
-- Improve problem-solving and coding skills
-- Prepare for technical interviews
+📅 What is 160 Days of Code?
+GeeksforGeeks 160 Days of Code is a structured challenge where students commit to solving at least one DSA problem daily for 160 days. It aims to:
+
+Strengthen Data Structures & Algorithms fundamentals
+Build consistent problem-solving habits
+Sharpen logic, optimization, and debugging skills
+Crack placements and tech interviews with confidence
